@@ -1,0 +1,1 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 3.CateGorizeNumbers\bin\Debug\Problem 3.CateGorizeNumbers.exe.config

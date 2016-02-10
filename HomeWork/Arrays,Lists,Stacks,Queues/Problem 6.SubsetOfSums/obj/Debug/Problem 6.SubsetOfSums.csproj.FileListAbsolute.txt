@@ -1,0 +1,6 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 6.SubsetOfSums\bin\Debug\Problem 6.SubsetOfSums.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 6.SubsetOfSums\bin\Debug\Problem 6.SubsetOfSums.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 6.SubsetOfSums\bin\Debug\Problem 6.SubsetOfSums.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 6.SubsetOfSums\obj\Debug\Problem 6.SubsetOfSums.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 6.SubsetOfSums\obj\Debug\Problem 6.SubsetOfSums.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 6.SubsetOfSums\obj\Debug\Problem 6.SubsetOfSums.pdb

@@ -1,0 +1,6 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Arrays,Lists,Stacks,Queues\bin\Debug\Arrays,Lists,Stacks,Queues.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Arrays,Lists,Stacks,Queues\bin\Debug\Arrays,Lists,Stacks,Queues.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Arrays,Lists,Stacks,Queues\bin\Debug\Arrays,Lists,Stacks,Queues.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Arrays,Lists,Stacks,Queues\obj\Debug\Arrays,Lists,Stacks,Queues.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Arrays,Lists,Stacks,Queues\obj\Debug\Arrays,Lists,Stacks,Queues.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Arrays,Lists,Stacks,Queues\obj\Debug\Arrays,Lists,Stacks,Queues.pdb

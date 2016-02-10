@@ -1,0 +1,6 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 1.SortingAnArray\bin\Debug\Problem 1.SortingAnArray.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 1.SortingAnArray\bin\Debug\Problem 1.SortingAnArray.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 1.SortingAnArray\bin\Debug\Problem 1.SortingAnArray.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 1.SortingAnArray\obj\Debug\Problem 1.SortingAnArray.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 1.SortingAnArray\obj\Debug\Problem 1.SortingAnArray.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 1.SortingAnArray\obj\Debug\Problem 1.SortingAnArray.csprojResolveAssemblyReference.cache

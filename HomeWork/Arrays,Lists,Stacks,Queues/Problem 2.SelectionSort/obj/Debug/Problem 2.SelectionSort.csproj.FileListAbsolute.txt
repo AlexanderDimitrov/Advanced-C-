@@ -1,0 +1,5 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 2.SelectionSort\bin\Debug\Problem 2.SelectionSort.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 2.SelectionSort\obj\Debug\Problem 2.SelectionSort.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 2.SelectionSort\obj\Debug\Problem 2.SelectionSort.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 2.SelectionSort\bin\Debug\Problem 2.SelectionSort.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 2.SelectionSort\bin\Debug\Problem 2.SelectionSort.pdb

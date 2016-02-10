@@ -1,0 +1,1 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 6.Longest Incresing Suquence\bin\Debug\Problem 6.Longest Incresing Suquence.exe.config

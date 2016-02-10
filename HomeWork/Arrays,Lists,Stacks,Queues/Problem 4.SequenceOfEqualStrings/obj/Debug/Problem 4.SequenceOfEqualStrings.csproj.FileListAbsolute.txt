@@ -1,0 +1,6 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 4.SequenceOfEqualStrings\bin\Debug\Problem 4.SequenceOfEqualStrings.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 4.SequenceOfEqualStrings\bin\Debug\Problem 4.SequenceOfEqualStrings.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 4.SequenceOfEqualStrings\bin\Debug\Problem 4.SequenceOfEqualStrings.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 4.SequenceOfEqualStrings\obj\Debug\Problem 4.SequenceOfEqualStrings.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 4.SequenceOfEqualStrings\obj\Debug\Problem 4.SequenceOfEqualStrings.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 4.SequenceOfEqualStrings\obj\Debug\Problem 4.SequenceOfEqualStrings.pdb

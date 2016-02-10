@@ -1,0 +1,6 @@
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 6.Longest Incresing Suquence\bin\Debug\Problem 6.Longest Incresing Suquence.exe.config
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 6.Longest Incresing Suquence\bin\Debug\Problem 6.Longest Incresing Suquence.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 6.Longest Incresing Suquence\bin\Debug\Problem 6.Longest Incresing Suquence.pdb
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 6.Longest Incresing Suquence\obj\Debug\Problem 5.Longest Incresing Suquence.csprojResolveAssemblyReference.cache
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 6.Longest Incresing Suquence\obj\Debug\Problem 6.Longest Incresing Suquence.exe
+C:\Users\iLuvEvz\Documents\Visual Studio 2015\Projects\Advanced C#\HomeWork\Arrays,Lists,Stacks,Queues\Problem 6.Longest Incresing Suquence\obj\Debug\Problem 6.Longest Incresing Suquence.pdb
